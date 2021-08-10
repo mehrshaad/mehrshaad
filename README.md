@@ -1,6 +1,6 @@
 <h2 align="center">GitHub Status</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehrshaad&count_private=true&show_icons=true%20&hide=stars&include_all_commits=true&line_height=24&hide_title=true&custom_title=GitHub%20Status&hide_border=true&border_radius=15&bg_color=333333&title_color=479aff&text_color=ffffff&icon_color=479aff" alt="Github-Status"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehrshaad&count_private=true&show_icons=true%20&hide=stars&include_all_commits=false&line_height=24&hide_title=true&custom_title=GitHub%20Status&hide_border=true&border_radius=15&bg_color=333333&title_color=479aff&text_color=ffffff&icon_color=479aff" alt="Github-Status"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehrshaad&layout=compact&langs_count=6&hide_title=true&custom_title=Most Used Languages&hide_border=true&border_radius=15&bg_color=333333&title_color=479aff&text_color=ffffff" alt="Top-Languages"/>
 </div>
 
