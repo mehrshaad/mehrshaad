@@ -1,4 +1,4 @@
-<h2 align="left">Hi there!
+<h2 align="left">Hi there, I'm Mehrshad!
   <!--<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=mehrshaad.visitor-badge&left_text=Page%20Visitors&left_color=black&right_color=red"/>-->
 </h2>
 <div align="left">
@@ -9,4 +9,4 @@
   </div>
  <hr>
 <div align="center">
-You can find me on <a href="https://www.instagram.com/mehrshaad1379/"><img align="center" src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/></a> or on <a href="https://www.linkedin.com/in/mehrshad-dadashzadeh-7053491b3/"><img align="center" src="https://img.icons8.com/color/30/000000/linkedin.png"/></a></div>
+You can find me on <a href="https://www.instagram.com/mehrshaad1379/"><img align="center" src="https://img.icons8.com/fluency/30/000000/instagram-new.png"/></a> or on <a href="https://www.linkedin.com/in/ali-dadashzadeh-7053491b3/"><img align="center" src="https://img.icons8.com/color/30/000000/linkedin.png"/></a></div>
